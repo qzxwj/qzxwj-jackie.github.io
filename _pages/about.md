@@ -64,6 +64,20 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC Under Review</div><img src='images/paper_tmc_4.png' alt="TMC Paper" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size="3.5"><b>Budget-Aware Rank Scheduling for Efficient Federated LoRA in Edge-Cloud Systems</b></font>
+
+<p style="margin: -1px 0;">Xinkang Fan, Shucun Fu, Xiaolong Xu, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Runze Chen, Muhammad Bilal</p>
+
+<em>Submitted to IEEE Transactions on Mobile Computing (<b>IEEE TMC</b>), 2026</em>
+
+- Proposed a budget-aware rank scheduling framework for efficient federated LoRA in edge-cloud systems to optimize communication and computational resource utilization.
+</div>
+</div>
+
+
 # 🎓 Educations
 - *2023.09 - 2027.06 (expected)*, B.E. in Waterford Institute, **Nanjing University of Information Science and Technology (NUIST)**, Nanjing, China.
 - *2023.09 - 2027.06 (expected)*, B.E. in Computer Science and Information Technology, **South East Technological University (SETU)**, Munster, Ireland.
