@@ -27,7 +27,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 
 
 # 🔥 News
-- *2026*: &nbsp;🎉🎉 1 paper accepted by **Optics and Laser Technology (OLT)**!
+- *2026*: &nbsp;🎉🎉 1 paper accepted by **Infrared Physics & Technology (IPT)**!
 - *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**!
 - *2025*: &nbsp;🏆 Honored as **Person of the Year** and awarded **National Scholarship** at NUIST!
 - *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition**!
@@ -51,14 +51,14 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Tech 2026</div><img src='images/paper_olt_2.png' alt="PFDMNet" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infrared Phys Tech 2026</div><img src='images/paper_olt_2.png' alt="PFDMNet" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size="3.5"><b>PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection</b></font>
 
 <p style="margin: -1px 0;">Yifan Hu#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Zhenglong Ding*, Kao Zhang, Feng Jiang</p>
 
-<em>Optics and Laser Technology (<b>OLT</b>), 2026. <b><span style="color:#e74c3c">Q2, IF: 5.2</span></b></em>
+<em>Infrared Physics & Technology (<b>IPT</b>), 2026</em>
 
 - Formulated a prior-guided frequency-decoupled Mamba network architecture to enhance infrared small target detection performance.
 </div>
@@ -86,7 +86,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 
 # 📖 Publications
 - <small>**<u>W. Xu#</u>**, Z. Ding*, Z. Wang, Z. Cui, Y. Hu, F. Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 2025.</small>
-- <small>Y. Hu#, **<u>W. Xu</u>**, Z. Ding*, K. Zhang, F. Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Optics and Laser Technology (OLT)* 2026.</small>
+- <small>Y. Hu#, **<u>W. Xu</u>**, Z. Ding*, K. Zhang, F. Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Infrared Physics & Technology (IPT)* 2026.</small>
 - <small>Z. Ding#, Y. Hu*, Y. Du, **<u>W. Xu</u>**, Y. Wei, X. Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology* 2024.</small>
 
 
