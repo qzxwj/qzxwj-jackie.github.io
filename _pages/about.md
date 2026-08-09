@@ -30,7 +30,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 - *2026*: &nbsp;🎉🎉 1 paper accepted by **Optics and Laser Technology (OLT)**!
 - *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**!
 - *2025*: &nbsp;🏆 Honored as **Person of the Year** and awarded **National Scholarship** at NUIST!
-- *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition** & Honorable Mention in **MCM**!
+- *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition**!
 - *2024*: &nbsp;🏆 Awarded **National Scholarship** and First Prize in **National College Student Mathematical Modeling Competition**!
 
 
