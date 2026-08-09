@@ -41,7 +41,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 
 <font size="3.5"><b>Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection</b></font>
 
-<p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Weijie Xu</u></span>#, Zhenglong Ding*, Ziheng Wang, Zhiqing Cui, Yifan Hu, Feng Jiang</p>
+<p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Weijie Xu</u></span>, Zhenglong Ding, Ziheng Wang, Zhiqing Cui, Yifan Hu, Feng Jiang</p>
 
 <em>IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>), 2025. <b><span style="color:#e74c3c">Q1 TOP, CCF B, IF: 9.4</span></b></em>
 
@@ -56,9 +56,9 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 
 <font size="3.5"><b>PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection</b></font>
 
-<p style="margin: -1px 0;">Yifan Hu#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Zhenglong Ding*, Kao Zhang, Feng Jiang</p>
+<p style="margin: -1px 0;">Yifan Hu, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Zhenglong Ding, Kao Zhang, Feng Jiang</p>
 
-<em>Infrared Physics & Technology (<b>IPT</b>), 2026</em>
+<em>Infrared Physics & Technology (<b>IPT</b>), 2026. <b><span style="color:#e74c3c">Q2</span></b></em>
 
 - Formulated a prior-guided frequency-decoupled Mamba network architecture to enhance infrared small target detection performance.
 </div>
@@ -99,10 +99,10 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 
 
 # 📖 Publications
-- <small>**<u>W. Xu#</u>**, Z. Ding*, Z. Wang, Z. Cui, Y. Hu, F. Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 2025.</small>
-- <small>Y. Hu#, **<u>W. Xu</u>**, Z. Ding*, K. Zhang, F. Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Infrared Physics & Technology (IPT)* 2026.</small>
+- <small>**<u>W. Xu</u>**, Z. Ding, Z. Wang, Z. Cui, Y. Hu, F. Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 2025.</small>
+- <small>Y. Hu, **<u>W. Xu</u>**, Z. Ding, K. Zhang, F. Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Infrared Physics & Technology (IPT)* 2026.</small>
 - <small>Y. Hu, Z. Ding, **<u>W. Xu</u>**, X. Ding, F. Jiang, K. Zhang, "DifTransNet: A Differential Cross-Scale Transformer Network for Infrared Small Target Detection", *Optics and Laser Technology (OLT)* 2026.</small>
-- <small>Z. Ding#, Y. Hu*, Y. Du, **<u>W. Xu</u>**, Y. Wei, X. Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology* 2024.</small>
+- <small>Z. Ding, Y. Hu, Y. Du, **<u>W. Xu</u>**, Y. Wei, X. Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology* 2024.</small>
 
 
 # 🏆 Honors & Awards
