@@ -3,18 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Research Interests"
+    url: "/#research-interests"
+
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Selected Projects"
-    url: "/#-selected-projects"
+    url: "/#selected-projects"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors & Awards"
-    url: "/#-honors--awards"
+    url: "/#honors-awards"
 
+  - title: "Skills"
+    url: "/#skills"

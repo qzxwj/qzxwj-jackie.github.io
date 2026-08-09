@@ -20,12 +20,14 @@ redirect_from:
 I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majoring in Artificial Intelligence at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** and **[South East Technological University (SETU)](https://www.setu.ie)**.
 
 
+<span class='anchor' id='research-interests'></span>
 # 🎯 Research Interests
 - **Computer Vision & Remote Sensing**: Infrared Small Target Detection (ISTD), Image Processing, Object Segmentation.
 - **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, LLM Inference Optimization.
 - **Signal Processing & Compression Techniques**: 3D Representation Compression, Image/Video Compression, *et al.*
 
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2026*: &nbsp;🎉🎉 1 paper accepted by **Optics and Laser Technology (OLT)** & 1 paper accepted by **Infrared Physics & Technology (IPT)**!
 - *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**!
@@ -34,6 +36,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 - *2024*: &nbsp;🏆 Awarded **National Scholarship** and First Prize in **National College Student Mathematical Modeling Competition**!
 
 
+<span class='anchor' id='selected-projects'></span>
 # 📝 Selected Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2025</div><img src='images/paper_tgrs_1.png' alt="FSCFNet" width="90%"></div></div>
@@ -93,11 +96,13 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 </div>
 
 
+<span class='anchor' id='educations'></span>
 # 🎓 Educations
 - *2023.09 - 2027.06 (expected)*, Undergraduate in Artificial Intelligence, **Nanjing University of Information Science and Technology (NUIST)**, Nanjing, China.
 - *2023.09 - 2027.06 (expected)*, Undergraduate in Artificial Intelligence, **South East Technological University (SETU)**, Munster, Ireland.
 
 
+<span class='anchor' id='publications'></span>
 # 📖 Publications
 - <small>**<u>W. Xu</u>**, Z. Ding, Z. Wang, Z. Cui, Y. Hu, F. Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 2025.</small>
 - <small>Y. Hu, **<u>W. Xu</u>**, Z. Ding, K. Zhang, F. Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Infrared Physics & Technology (IPT)* 2026.</small>
@@ -105,6 +110,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 - <small>Z. Ding, Y. Hu, Y. Du, **<u>W. Xu</u>**, Y. Wei, X. Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology* 2024.</small>
 
 
+<span class='anchor' id='honors-awards'></span>
 # 🏆 Honors & Awards
 - *2025*: **National Scholarship**, Ministry of Education, China
 - *2025*: **Person of the Year**, NUIST
@@ -118,6 +124,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majorin
 - *2024*: **Outstanding Volunteer**, NUIST
 
 
+<span class='anchor' id='skills'></span>
 # 💻 Skills
 - **Programming Languages & Frameworks**: Python, PyTorch, C++, Java, SQL, Shell, LaTeX
 - **Operating Systems & Databases**: Linux, Docker, Git, MySQL, MongoDB
