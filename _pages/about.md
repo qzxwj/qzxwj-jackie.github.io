@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuing a dual Bachelor of Engineering degree at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** (Waterford Institute) and **[South East Technological University (SETU)](https://www.setu.ie)** (Computer Science and IT), ranking **1/34** in both programs with GPAs of **4.16/5.0** and **4.18/5.0**.
+I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuing a dual Bachelor of Engineering degree at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** (Waterford Institute) and **[South East Technological University (SETU)](https://www.setu.ie)** (Computer Science and IT).
 
 
 # 🎯 Research Interests
@@ -80,12 +80,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 # 🎓 Educations
 - *2023.09 - 2027.06 (expected)*, B.E. in Waterford Institute, **Nanjing University of Information Science and Technology (NUIST)**, Nanjing, China.
-  - **GPA**: 4.16/5.0 | **Rank**: 1/34 | **Centesimal Average**: 91.45
 - *2023.09 - 2027.06 (expected)*, B.E. in Computer Science and Information Technology, **South East Technological University (SETU)**, Munster, Ireland.
-  - **GPA**: 4.18/5.0 | **Rank**: 1/34 | **Centesimal Average**: 91.60
-
-### 📚 Selected Coursework
-Linear Algebra (99), College Physics (99), Introduction to Engineering (99), Advanced Mathematics (99), Discrete Mathematics (98), Relational Databases (98), Computer Networks (97), Probability Theory and Statistics (97), Python and its Application Practice (96), Web Application Development (95).
 
 
 # 📖 Publications
