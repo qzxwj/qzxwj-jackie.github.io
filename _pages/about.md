@@ -25,12 +25,12 @@ Here is my [CV/Resume](CV_Weijie_Xu.pdf). If you are interested in my work or pr
 
 
 # 🎯 Research Interests
-- **Computer Vision & Remote Sensing**: Infrared Small Target Detection (ISTD), RGBT Referring Expression Comprehension, Image Processing, Object Segmentation.
-- **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, Federated Learning, Edge-Cloud Systems, LLM Inference Optimization.
+- **Computer Vision & Remote Sensing**: Infrared Small Target Detection (ISTD), Image Processing, Object Segmentation.
+- **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, LLM Inference Optimization.
 
 
 # 🔥 News
-- *2026*: &nbsp;📄 1 paper submitted to **IEEE TMC** (CCF A), 1 paper preparing for **AAAI** (CCF A), 1 paper under major revision at **Optics & Laser Technology**!
+- *2026*: &nbsp;📄 1 paper under major revision at **Optics & Laser Technology**!
 - *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** (Q1 TOP, CCF B)!
 - *2025*: &nbsp;🏆 Honored as **Person of the Year** and awarded **National Scholarship** at NUIST!
 - *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition** & Honorable Mention in **MCM**!
@@ -51,38 +51,6 @@ Here is my [CV/Resume](CV_Weijie_Xu.pdf). If you are interested in my work or pr
 - Proposed **FSCFNet** for infrared small target detection under sparsity, low contrast, and blurred textures.
 - Designed Frequency-Spatial Convolution, Asymmetric Cross-Domain Attention, and Multiscale Receptive Contextual Block to jointly model high-frequency details and low-frequency global structures.
 - On IRSTD-1k, improved mAP@50 from 86.5% to 90.4% (+3.9%) with only +3.6% parameters; achieved leading performance against 16 SOTA models on IRSTD-1k, NUAA-SIRST, and NUDT-SIRST.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Prep AAAI 2026</div><img src='images/500x300.png' alt="NVRBench" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<font size="3.5"><b>NVRBench: A Cross-Modal Reasoning Benchmark for RGBT Referring Expression Comprehension in Drone Scenes</b></font>
-
-<p style="margin: -1px 0;">Haiyao Jin#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>#, Siqi Li, Wei Zhang, Zhou Yue, Xue Yang*,†, Junchi Yan†</p>
-
-<em>Preparing for The 40th AAAI Conference on Artificial Intelligence (<b>AAAI</b>), <b><span style="color:#e74c3c">CCF A</span></b>, 2026 (SJTU Research Internship)</em>
-
-- Built a semi-automatic benchmark, **NVRBench**, for cross-modal reasoning in drone RGBT referring expression comprehension, targeting missing implicit reasoning annotations and over-reliance on explicit visual descriptions.
-- Proposed an implicit-to-explicit chain-of-thought framework (**I2E-CoT**) to guide comparison, verification, and consistency checking under multimodal evidence conflicts.
-- Led the end-to-end dataset pipeline, including manual annotation, quality auditing, literature review, and manuscript drafting.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC Under Review</div><img src='images/500x300.png' alt="TiBA-Fed" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<font size="3.5"><b>TiBA-Fed: Budget-Aware Federated Learning for Time-Varying Heterogeneity Systems in Collaborative Edge-Cloud Intelligence</b></font>
-
-<p style="margin: -1px 0;">Xinkang Fan#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Xilei Du, Zirui Xu, Yi Yao*</p>
-
-<em>Submitted to IEEE Transactions on Mobile Computing (<b>IEEE TMC</b>), <b><span style="color:#e74c3c">Q1 TOP, CCF A, IF: 8.1</span></b>, 2026</em>
-
-- Addressed budget overflow and slow convergence caused by time-varying client heterogeneity by developing a virtual-queue-based drift-plus-penalty optimization framework.
-- Jointly optimized client participation and LoRA configuration per round, and designed a Heterogeneous Local Aggregation (HLA) mechanism to mitigate dropout contamination while improving training stability and resource efficiency.
-- Contributed to core algorithm design, implemented key modules, reproduced critical experiments, and participated in manuscript drafting.
 </div>
 </div>
 
@@ -118,8 +86,6 @@ Linear Algebra (99), College Physics (99), Introduction to Engineering (99), Adv
 - <small>Zhenglong Ding#, Yifan Hu*, Yuanhong Du, **<u>Weijie Xu</u>**, Yamei Wei, Xuan Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology*, 2024. **[Rank: Core Technology]**</small>
 
 ### 📄 Papers Under Review & Working Papers
-- <small>Haiyao Jin#, **<u>Weijie Xu#</u>**, Siqi Li, Wei Zhang, Zhou Yue, Xue Yang*,†, Junchi Yan†, "NVRBench: A Cross-Modal Reasoning Benchmark for RGBT Referring Expression Comprehension in Drone Scenes", preparing to submit to *AAAI*, 2026. **[Rank: CCF A]**</small>
-- <small>Xinkang Fan#, **<u>Weijie Xu</u>**, Xilei Du, Zirui Xu, Yi Yao*, "TiBA-Fed: Budget-Aware Federated Learning for Time-Varying Heterogeneity Systems in Collaborative Edge-Cloud Intelligence", submitted to *IEEE Transactions on Mobile Computing (TMC)* (Under Review), 2026. **[IF: 8.1, Rank: Q1 TOP, CCF A]**</small>
 - <small>Yifan Hu#, **<u>Weijie Xu</u>**, Zhenglong Ding*, Kao Zhang, Feng Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", submitted to *Optics and Laser Technology* (in Major Revision), 2026. **[IF: 5.7, Rank: Q2]**</small>
 
 
