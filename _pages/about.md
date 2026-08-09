@@ -26,11 +26,11 @@ Here is my [CV/Resume](CV_Weijie_Xu.pdf). If you are interested in my work or pr
 
 # 🎯 Research Interests
 - **Computer Vision & Remote Sensing**: Infrared Small Target Detection (ISTD), Image Processing, Object Segmentation.
-- **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, LLM Inference Optimization.
+- **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, Federated Learning, Edge-Cloud Systems, LLM Inference Optimization.
 
 
 # 🔥 News
-- *2026*: &nbsp;📄 1 paper under major revision at **Optics & Laser Technology**!
+- *2026*: &nbsp;📄 1 paper submitted to **IEEE TMC** (CCF A), 1 paper under major revision at **Optics & Laser Technology**!
 - *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** (Q1 TOP, CCF B)!
 - *2025*: &nbsp;🏆 Honored as **Person of the Year** and awarded **National Scholarship** at NUIST!
 - *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition** & Honorable Mention in **MCM**!
@@ -51,6 +51,20 @@ Here is my [CV/Resume](CV_Weijie_Xu.pdf). If you are interested in my work or pr
 - Proposed **FSCFNet** for infrared small target detection under sparsity, low contrast, and blurred textures.
 - Designed Frequency-Spatial Convolution, Asymmetric Cross-Domain Attention, and Multiscale Receptive Contextual Block to jointly model high-frequency details and low-frequency global structures.
 - On IRSTD-1k, improved mAP@50 from 86.5% to 90.4% (+3.9%) with only +3.6% parameters; achieved leading performance against 16 SOTA models on IRSTD-1k, NUAA-SIRST, and NUDT-SIRST.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC Under Review</div><img src='images/500x300.png' alt="TMC Paper" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size="3.5"><b>Budget-Aware Rank Scheduling for Efficient Federated LoRA in Edge-Cloud Systems</b></font>
+
+<p style="margin: -1px 0;">Xinkang Fan, Shucun Fu, Xiaolong Xu, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Runze Chen, Muhammad Bilal</p>
+
+<em>Submitted to IEEE Transactions on Mobile Computing (<b>IEEE TMC</b>), <b><span style="color:#e74c3c">Q1 TOP, CCF A, IF: 8.1</span></b>, 2026</em>
+
+- Proposed a budget-aware rank scheduling framework for efficient federated LoRA in edge-cloud systems to optimize communication and computational resource utilization.
 </div>
 </div>
 
@@ -86,6 +100,7 @@ Linear Algebra (99), College Physics (99), Introduction to Engineering (99), Adv
 - <small>Zhenglong Ding#, Yifan Hu*, Yuanhong Du, **<u>Weijie Xu</u>**, Yamei Wei, Xuan Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology*, 2024. **[Rank: Core Technology]**</small>
 
 ### 📄 Papers Under Review & Working Papers
+- <small>Xinkang Fan, Shucun Fu, Xiaolong Xu, **<u>Weijie Xu</u>**, Runze Chen, Muhammad Bilal, "Budget-Aware Rank Scheduling for Efficient Federated LoRA in Edge-Cloud Systems", submitted to *IEEE Transactions on Mobile Computing (TMC)* (Under Review), 2026. **[IF: 8.1, Rank: Q1 TOP, CCF A]**</small>
 - <small>Yifan Hu#, **<u>Weijie Xu</u>**, Zhenglong Ding*, Kao Zhang, Feng Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", submitted to *Optics and Laser Technology* (in Major Revision), 2026. **[IF: 5.7, Rank: Q2]**</small>
 
 
