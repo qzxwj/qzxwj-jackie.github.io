@@ -19,10 +19,6 @@ redirect_from:
 
 I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuing a dual Bachelor of Engineering degree at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** (Waterford Institute) and **[South East Technological University (SETU)](https://www.setu.ie)** (Computer Science and IT), ranking **1/34** in both programs with GPAs of **4.16/5.0** and **4.18/5.0**.
 
-My research interests include **Machine Learning**, **Pattern Recognition**, **Image Processing**, **Remote Sensing Applications**, **Large Language Model Inference**, and **Model-Driven Deep Learning**.
-
-Here is my [CV/Resume](CV_Weijie_Xu.pdf). If you are interested in my work or prospective research collaborations, please feel free to contact me via *[wjxu@nuist.edu.cn](mailto:wjxu@nuist.edu.cn)*.
-
 
 # 🎯 Research Interests
 - **Computer Vision & Remote Sensing**: Infrared Small Target Detection (ISTD), Image Processing, Object Segmentation.
@@ -50,7 +46,6 @@ Here is my [CV/Resume](CV_Weijie_Xu.pdf). If you are interested in my work or pr
 
 - Proposed **FSCFNet** for infrared small target detection under sparsity, low contrast, and blurred textures.
 - Designed Frequency-Spatial Convolution, Asymmetric Cross-Domain Attention, and Multiscale Receptive Contextual Block to jointly model high-frequency details and low-frequency global structures.
-- On IRSTD-1k, improved mAP@50 from 86.5% to 90.4% (+3.9%) with only +3.6% parameters; achieved leading performance against 16 SOTA models on IRSTD-1k, NUAA-SIRST, and NUDT-SIRST.
 </div>
 </div>
 
