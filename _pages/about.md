@@ -84,14 +84,10 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 
 # 📖 Publications
-
-### 📄 Journal & Conference Papers
-- <small>**<u>Weijie Xu#</u>**, Zhenglong Ding*, Ziheng Wang, Zhiqing Cui, Yifan Hu, Feng Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025. **[IF: 8.6, Rank: Q1 TOP, CCF B]**</small>
-- <small>Yifan Hu#, **<u>Weijie Xu</u>**, Zhenglong Ding*, Kao Zhang, Feng Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Optics and Laser Technology*, 2026. **[IF: 5.7, Rank: Q2]**</small>
-- <small>Zhenglong Ding#, Yifan Hu*, Yuanhong Du, **<u>Weijie Xu</u>**, Yamei Wei, Xuan Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology*, 2024. **[Rank: Core Technology]**</small>
-
-### 📄 Papers Under Review & Working Papers
-- <small>Xinkang Fan, Shucun Fu, Xiaolong Xu, **<u>Weijie Xu</u>**, Runze Chen, Muhammad Bilal, "Budget-Aware Rank Scheduling for Efficient Federated LoRA in Edge-Cloud Systems", submitted to *IEEE Transactions on Mobile Computing (TMC)* (Under Review), 2026. **[IF: 8.1, Rank: Q1 TOP, CCF A]**</small>
+- <small>**<u>W. Xu#</u>**, Z. Ding*, Z. Wang, Z. Cui, Y. Hu, F. Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 2025.</small>
+- <small>Y. Hu#, **<u>W. Xu</u>**, Z. Ding*, K. Zhang, F. Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Optics and Laser Technology* 2026.</small>
+- <small>X. Fan, S. Fu, X. Xu, **<u>W. Xu</u>**, R. Chen, M. Bilal, "Budget-Aware Rank Scheduling for Efficient Federated LoRA in Edge-Cloud Systems", *IEEE Transactions on Mobile Computing (TMC)* 2026.</small>
+- <small>Z. Ding#, Y. Hu*, Y. Du, **<u>W. Xu</u>**, Y. Wei, X. Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology* 2024.</small>
 
 
 # 🏆 Honors & Awards
