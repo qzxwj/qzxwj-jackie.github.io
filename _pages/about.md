@@ -22,11 +22,11 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 # 🎯 Research Interests
 - **Computer Vision & Remote Sensing**: Infrared Small Target Detection (ISTD), Image Processing, Object Segmentation.
-- **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, Federated Learning, Edge-Cloud Systems, LLM Inference Optimization.
+- **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, LLM Inference Optimization.
 
 
 # 🔥 News
-- *2026*: &nbsp;🎉🎉 1 paper accepted by **Optics and Laser Technology**! 📄 1 paper submitted to **IEEE TMC** (CCF A)!
+- *2026*: &nbsp;🎉🎉 1 paper accepted by **Optics and Laser Technology (OLT)**!
 - *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** (Q1 TOP, CCF B)!
 - *2025*: &nbsp;🏆 Honored as **Person of the Year** and awarded **National Scholarship** at NUIST!
 - *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition** & Honorable Mention in **MCM**!
@@ -57,23 +57,9 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 <p style="margin: -1px 0;">Yifan Hu#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Zhenglong Ding*, Kao Zhang, Feng Jiang</p>
 
-<em>Optics and Laser Technology, 2026. <b><span style="color:#e74c3c">Q2, IF: 5.7</span></b></em>
+<em>Optics and Laser Technology (<b>OLT</b>), 2026. <b><span style="color:#e74c3c">Q2, IF: 5.7</span></b></em>
 
 - Formulated a prior-guided frequency-decoupled Mamba network architecture to enhance infrared small target detection performance.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC Under Review</div><img src='images/paper_tmc_4.png' alt="TMC Paper" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<font size="3.5"><b>Budget-Aware Rank Scheduling for Efficient Federated LoRA in Edge-Cloud Systems</b></font>
-
-<p style="margin: -1px 0;">Xinkang Fan, Shucun Fu, Xiaolong Xu, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Runze Chen, Muhammad Bilal</p>
-
-<em>Submitted to IEEE Transactions on Mobile Computing (<b>IEEE TMC</b>), <b><span style="color:#e74c3c">Q1 TOP, CCF A, IF: 8.1</span></b>, 2026</em>
-
-- Proposed a budget-aware rank scheduling framework for efficient federated LoRA in edge-cloud systems to optimize communication and computational resource utilization.
 </div>
 </div>
 
@@ -85,8 +71,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 # 📖 Publications
 - <small>**<u>W. Xu#</u>**, Z. Ding*, Z. Wang, Z. Cui, Y. Hu, F. Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 2025.</small>
-- <small>Y. Hu#, **<u>W. Xu</u>**, Z. Ding*, K. Zhang, F. Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Optics and Laser Technology* 2026.</small>
-- <small>X. Fan, S. Fu, X. Xu, **<u>W. Xu</u>**, R. Chen, M. Bilal, "Budget-Aware Rank Scheduling for Efficient Federated LoRA in Edge-Cloud Systems", *IEEE Transactions on Mobile Computing (TMC)* 2026.</small>
+- <small>Y. Hu#, **<u>W. Xu</u>**, Z. Ding*, K. Zhang, F. Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Optics and Laser Technology (OLT)* 2026.</small>
 - <small>Z. Ding#, Y. Hu*, Y. Du, **<u>W. Xu</u>**, Y. Wei, X. Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology* 2024.</small>
 
 
