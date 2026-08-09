@@ -26,7 +26,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 
 # 🔥 News
-- *2026*: &nbsp;📄 1 paper submitted to **IEEE TMC** (CCF A), 1 paper under major revision at **Optics & Laser Technology**!
+- *2026*: &nbsp;🎉🎉 1 paper accepted by **Optics and Laser Technology**! 📄 1 paper submitted to **IEEE TMC** (CCF A)!
 - *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** (Q1 TOP, CCF B)!
 - *2025*: &nbsp;🏆 Honored as **Person of the Year** and awarded **National Scholarship** at NUIST!
 - *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition** & Honorable Mention in **MCM**!
@@ -50,14 +50,14 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Tech</div><img src='images/paper_olt_2.png' alt="PFDMNet" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Tech 2026</div><img src='images/paper_olt_2.png' alt="PFDMNet" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size="3.5"><b>PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection</b></font>
 
 <p style="margin: -1px 0;">Yifan Hu#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Zhenglong Ding*, Kao Zhang, Feng Jiang</p>
 
-<em>Submitted to Optics and Laser Technology (<b>Major Revision</b>), <b><span style="color:#e74c3c">Q2, IF: 5.7</span></b>, 2026</em>
+<em>Optics and Laser Technology, 2026. <b><span style="color:#e74c3c">Q2, IF: 5.7</span></b></em>
 
 - Formulated a prior-guided frequency-decoupled Mamba network architecture to enhance infrared small target detection performance.
 </div>
@@ -92,10 +92,10 @@ Linear Algebra (99), College Physics (99), Introduction to Engineering (99), Adv
 
 ### 📄 Journal & Conference Papers
 - <small>**<u>Weijie Xu#</u>**, Zhenglong Ding*, Ziheng Wang, Zhiqing Cui, Yifan Hu, Feng Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025. **[IF: 8.6, Rank: Q1 TOP, CCF B]**</small>
+- <small>Yifan Hu#, **<u>Weijie Xu</u>**, Zhenglong Ding*, Kao Zhang, Feng Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", *Optics and Laser Technology*, 2026. **[IF: 5.7, Rank: Q2]**</small>
 - <small>Zhenglong Ding#, Yifan Hu*, Yuanhong Du, **<u>Weijie Xu</u>**, Yamei Wei, Xuan Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology*, 2024. **[Rank: Core Technology]**</small>
 
 ### 📄 Papers Under Review & Working Papers
-- <small>Yifan Hu#, **<u>Weijie Xu</u>**, Zhenglong Ding*, Kao Zhang, Feng Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", submitted to *Optics and Laser Technology* (in Major Revision), 2026. **[IF: 5.7, Rank: Q2]**</small>
 - <small>Xinkang Fan, Shucun Fu, Xiaolong Xu, **<u>Weijie Xu</u>**, Runze Chen, Muhammad Bilal, "Budget-Aware Rank Scheduling for Efficient Federated LoRA in Edge-Cloud Systems", submitted to *IEEE Transactions on Mobile Computing (TMC)* (Under Review), 2026. **[IF: 8.1, Rank: Q1 TOP, CCF A]**</small>
 
 
