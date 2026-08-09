@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
@@ -14,3 +14,7 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Honors & Awards"
+    url: "/#-honors--awards"
+

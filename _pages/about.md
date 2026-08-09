@@ -17,152 +17,127 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a joint Ph.D. candidate of **[Shanghai Jiao Tong University](https://www.sjtu.edu.cn)** and **[Monash University](https://www.monash.edu)** from [SEIEE](https://www.seiee.sjtu.edu.cn) since 2021, 
-working with [Prof. Weiyao Lin](https://weiyaolin.github.io), [Prof. Jianfei Cai](https://jianfei-cai.github.io) and [Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/).
-Before that, I spent 4 wonderful years studying at **[Dalian University of Technology](https://www.dlut.edu.cn)** as an undergraduate student since 2017 (top 5%).
-My research interests include NeRF/3DGS compression, image/video compression and computer vision. Here is my [CV/Resume](https://yihangchen-ee.github.io/CV_Yihang_Chen.pdf).
-I am also happy to share my good friend Qianyi Wu's fantastic works [here](https://qianyiwu.github.io).
+I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuing a dual Bachelor of Engineering degree at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** (Waterford Institute) and **[South East Technological University (SETU)](https://www.setu.ie)** (Computer Science and IT), ranking **1/34** in both programs with GPAs of **4.16/5.0** and **4.18/5.0**.
 
-If you are interested in my work, please contact me via *<yhchen.ee@sjtu.edu.cn>*.
+My research interests include **Machine Learning**, **Pattern Recognition**, **Image Processing**, **Remote Sensing Applications**, **Large Language Model Inference**, and **Model-Driven Deep Learning**.
+
+Here is my [CV/Resume](CV_Weijie_Xu.pdf). If you are interested in my work or prospective research collaborations, please feel free to contact me via *[wjxu@nuist.edu.cn](mailto:wjxu@nuist.edu.cn)*.
 
 
 # 🎯 Research Interests
-- **3D Scene Reconstruction/Volume Rendering**: Neural Radiance Field (NeRF), 3D Gaussian Splatting (3DGS), _et al._ 
-- **Compression Techniques**: 3D Representation Compression, Image/Video Compression, _et al._
+- **Computer Vision & Remote Sensing**: Infrared Small Target Detection (ISTD), RGBT Referring Expression Comprehension, Image Processing, Object Segmentation.
+- **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, Federated Learning, Edge-Cloud Systems, LLM Inference Optimization.
 
 
 # 🔥 News
-- *2026*: &nbsp;🎉🎉 1 AAAI Oral is accepted! 
-- *2025*: &nbsp;🔥🔥 I will join NVIDIA Research in Santa Clara, CA, as a Research Intern in May 2025! See you there!
-- *2025*: &nbsp;✈️✈️ I will attend ICLR conference in Singapore in April. Looking forward to seeing old/new friends! 
-- *2025*: &nbsp;🎉🎉 1 ICLR, 1 TPAMI is accepted! 
-- *2024*: &nbsp;✈️✈️ I will attend CVPR conference in Seattle in June. Looking forward to seeing old/new friends! 
-- *2024*: &nbsp;🎉🎉 1 CVPR, 1 ACM TOMM, 1 ECCV, 1 NIPS are accepted! 
+- *2026*: &nbsp;📄 1 paper submitted to **IEEE TMC** (CCF A), 1 paper preparing for **AAAI** (CCF A), 1 paper under major revision at **Optics & Laser Technology**!
+- *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** (Q1 TOP, CCF B)!
+- *2025*: &nbsp;🏆 Honored as **Person of the Year** and awarded **National Scholarship** at NUIST!
+- *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition** & Honorable Mention in **MCM**!
+- *2024*: &nbsp;🏆 Awarded **National Scholarship**, First Prize in **National College Student Mathematical Modeling Competition**, and First Prize in **Jiangsu Higher Math Competition**!
 
 
 # 📝 Selected Projects
 
-## 📦 3D Representation & Compression
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026, Oral</div><img src='images/paper_pcgs_teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2025</div><img src='images/500x300.png' alt="FSCFNet" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size="3.5"><b>PCGS: Progressive Compression of 3D Gaussian Splatting</b></font>
+<font size="3.5"><b>Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection</b></font>
 
-<p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Yihang Chen</u></span>*, <a href="https://scholar.google.com/citations?user=fAIEYrEAAAAJ&hl=zh-CN&oi=ao" target="_blank">Mengyao Li</a>*, <a href="https://qianyiwu.github.io" target="_blank">Qianyi Wu</a>, <a href="https://weiyaolin.github.io" target="_blank">Weiyao Lin</a>, <a href="https://sites.google.com/site/mehrtashharandi/" target="_blank">Mehrtash Harandi</a>, <a href="http://jianfei-cai.github.io" target="_blank">Jianfei Cai</a></p>
+<p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Weijie Xu</u></span>#, Zhenglong Ding*, Ziheng Wang, Zhiqing Cui, Yifan Hu, Feng Jiang</p>
 
-<em>The 40th Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), <b><span style="color:#e74c3c">Oral Presentation</span></b>, 2026</em>
+<em>IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>), 2025. <b><span style="color:#e74c3c">Q1 TOP, CCF B, IF: 8.6</span></b></em>
 
-[**Arxiv**](https://arxiv.org/pdf/2503.08511) | [**Project**](https://yihangchen-ee.github.io/project_pcgs/) | [**Github**](https://github.com/YihangChen-ee/PCGS)
-- **PCGS provides a progressive compression solution for on-demand applications.** 
-- **It enables reuse of existing bitstreams for enhenced fidelity when dynamic bandwidth or diversion storage occurs.** 
+- Proposed **FSCFNet** for infrared small target detection under sparsity, low contrast, and blurred textures.
+- Designed Frequency-Spatial Convolution, Asymmetric Cross-Domain Attention, and Multiscale Receptive Contextual Block to jointly model high-frequency details and low-frequency global structures.
+- On IRSTD-1k, improved mAP@50 from 86.5% to 90.4% (+3.9%) with only +3.6% parameters; achieved leading performance against 16 SOTA models on IRSTD-1k, NUAA-SIRST, and NUDT-SIRST.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/paper_hac++_teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Prep AAAI 2026</div><img src='images/500x300.png' alt="NVRBench" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size="3.5"><b>HAC++: Towards 100X Compression of 3D Gaussian Splatting</b></font>
+<font size="3.5"><b>NVRBench: A Cross-Modal Reasoning Benchmark for RGBT Referring Expression Comprehension in Drone Scenes</b></font>
 
-<p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Yihang Chen</u></span>, <a href="https://qianyiwu.github.io" target="_blank">Qianyi Wu</a>, <a href="https://weiyaolin.github.io" target="_blank">Weiyao Lin</a>, <a href="https://sites.google.com/site/mehrtashharandi/" target="_blank">Mehrtash Harandi</a>, <a href="http://jianfei-cai.github.io" target="_blank">Jianfei Cai</a></p>
+<p style="margin: -1px 0;">Haiyao Jin#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>#, Siqi Li, Wei Zhang, Zhou Yue, Xue Yang*,†, Junchi Yan†</p>
 
-<em>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</em>
+<em>Preparing for The 40th AAAI Conference on Artificial Intelligence (<b>AAAI</b>), <b><span style="color:#e74c3c">CCF A</span></b>, 2026 (SJTU Research Internship)</em>
 
-[**Arxiv**](https://arxiv.org/pdf/2501.12255) | [**Project**](https://yihangchen-ee.github.io/project_hac++/) | [**Github**](https://github.com/YihangChen-ee/HAC-plus)
-- **HAC++ is an enhanced compression method over HAC!** 
+- Built a semi-automatic benchmark, **NVRBench**, for cross-modal reasoning in drone RGBT referring expression comprehension, targeting missing implicit reasoning annotations and over-reliance on explicit visual descriptions.
+- Proposed an implicit-to-explicit chain-of-thought framework (**I2E-CoT**) to guide comparison, verification, and consistency checking under multimodal evidence conflicts.
+- Led the end-to-end dataset pipeline, including manual annotation, quality auditing, literature review, and manuscript drafting.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/paper_fcgs_teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC Under Review</div><img src='images/500x300.png' alt="TiBA-Fed" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size="3.5"><b>Fast Feedforward 3D Gaussian Splatting Compression</b></font>
+<font size="3.5"><b>TiBA-Fed: Budget-Aware Federated Learning for Time-Varying Heterogeneity Systems in Collaborative Edge-Cloud Intelligence</b></font>
 
-<p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Yihang Chen</u></span>, <a href="https://qianyiwu.github.io" target="_blank">Qianyi Wu</a>, <a href="https://scholar.google.com/citations?user=fAIEYrEAAAAJ&hl=zh-CN&oi=ao" target="_blank">Mengyao Li</a>, <a href="https://weiyaolin.github.io" target="_blank">Weiyao Lin</a>, <a href="https://sites.google.com/site/mehrtashharandi/" target="_blank">Mehrtash Harandi</a>, <a href="http://jianfei-cai.github.io" target="_blank">Jianfei Cai</a></p>
+<p style="margin: -1px 0;">Xinkang Fan#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Xilei Du, Zirui Xu, Yi Yao*</p>
 
-<em>International Conference on Learning Representations (<b>ICLR</b>), 2025</em>
+<em>Submitted to IEEE Transactions on Mobile Computing (<b>IEEE TMC</b>), <b><span style="color:#e74c3c">Q1 TOP, CCF A, IF: 8.1</span></b>, 2026</em>
 
-[**Paper**](https://openreview.net/pdf?id=DCandSZ2F1) |[**Arxiv**](https://arxiv.org/pdf/2410.08017) | [**Project**](https://yihangchen-ee.github.io/project_fcgs/) | [**Github**](https://github.com/YihangChen-ee/FCGS)
-- **Compress existing 3DGS rapidly in seconds without per-scene optimization!** 
+- Addressed budget overflow and slow convergence caused by time-varying client heterogeneity by developing a virtual-queue-based drift-plus-penalty optimization framework.
+- Jointly optimized client participation and LoRA configuration per round, and designed a Heterogeneous Local Aggregation (HLA) mechanism to mitigate dropout contamination while improving training stability and resource efficiency.
+- Contributed to core algorithm design, implemented key modules, reproduced critical experiments, and participated in manuscript drafting.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/paper_hac_teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics & Laser Tech</div><img src='images/500x300.png' alt="PFDMNet" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size="3.5"><b>HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression</b></font>
+<font size="3.5"><b>PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection</b></font>
 
-<p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Yihang Chen</u></span>, <a href="https://qianyiwu.github.io" target="_blank">Qianyi Wu</a>, <a href="https://weiyaolin.github.io" target="_blank">Weiyao Lin</a>, <a href="https://sites.google.com/site/mehrtashharandi/" target="_blank">Mehrtash Harandi</a>, <a href="http://jianfei-cai.github.io" target="_blank">Jianfei Cai</a></p>
+<p style="margin: -1px 0;">Yifan Hu#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Zhenglong Ding*, Kao Zhang, Feng Jiang</p>
 
-<em>European Conference on Computer Vision (<b>ECCV</b>), 2024</em>
+<em>Submitted to Optics and Laser Technology (<b>Major Revision</b>), <b><span style="color:#e74c3c">Q2, IF: 5.7</span></b>, 2026</em>
 
-[**Paper**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01178.pdf) | [**Arxiv**](https://arxiv.org/pdf/2403.14530) | [**Project**](https://yihangchen-ee.github.io/project_hac/) | [**Github**](https://github.com/YihangChen-ee/HAC)
-- **Compress 3D Gaussian Splatting for 75X without fidelity drop!** 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper_cnc_teaser.png' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<font size="3.5"><b>How Far Can We Compress Instant-NGP-Based NeRF?</b></font>
-
-<p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Yihang Chen</u></span>, <a href="https://qianyiwu.github.io" target="_blank">Qianyi Wu</a>, <a href="https://sites.google.com/site/mehrtashharandi/" target="_blank">Mehrtash Harandi</a>, <a href="http://jianfei-cai.github.io" target="_blank">Jianfei Cai</a></p>
-
-<em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</em>
-
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_How_Far_Can_We_Compress_Instant-NGP-Based_NeRF_CVPR_2024_paper.pdf) | [**Arxiv**](https://arxiv.org/pdf/2406.04101) | [**Project**](https://yihangchen-ee.github.io/project_cnc/) | [**Github**](https://github.com/YihangChen-ee/CNC)
-- **Significant compression ratio of 100X based on Instant-NGP!** 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/paper_shizhan_teaser.png' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<font size="3.5"><b>A Unified Framework for Jointly Compressing Visual and Semantic Data</b></font>
-
-<p style="margin: -1px 0;"><a href="https://scholar.google.com/citations?user=LtTzNK4AAAAJ&hl=zh-CN&oi=ao" target="_blank">Shizhan Liu</a>, <a href="https://weiyaolin.github.io" target="_blank">Weiyao Lin</a>, <span style="font-weight: bold;"><u>Yihang Chen</u></span>, Yufeng Zhang, <a href="https://scholar.google.com/citations?user=Xg8MhyAAAAAJ&hl=zh-CN&oi=ao" target="_blank">Wenrui Dai</a>, <a href="https://johnsee.net" target="_blank">John See</a>, <a href="https://scholar.google.com/citations?user=bB16iN4AAAAJ&hl=zh-CN&oi=ao" target="_blank">Hongkai Xiong</a></p>
-
-<em>ACM Transactions on Multimedia Computing, Communications, and Applications (<b>ACM TOMM</b>), 2024</em>
-
-[**Paper**](https://dl.acm.org/doi/full/10.1145/3654800)
-</div>
-</div>
-
-## 🧭 Other Fields
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024, Spotlight</div><img src='images/paper_mecd_teaser.png' alt="sym" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<font size="3.5"><b>MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning</b></font>
-
-<p style="margin: -1px 0;"><a href="https://tychen-sjtu.github.io//" target="_blank">Tieyuan Chen*</a>, <a href="https://r00kie-liu.github.io" target="_blank">Huabin Liu*</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=TTw8ZGcAAAAJ" target="_blank">Tianyao He</a>, <span style="font-weight: bold;"><u>Yihang Chen</u></span>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=oOskImcAAAAJ" target="_blank">Chaofan Gan</a>, et. al</p>
-
-<em>Neural Information Processing Systems (<b>NeurIPS</b>), <b><span style="color:#e74c3c">Spotlight</span></b>, 2024</em>
-
-[**Arxiv**](https://arxiv.org/pdf/2409.17647) | [**Github**](https://github.com/tychen-SJTU/MECD-Benchmark)
+- Formulated a prior-guided frequency-decoupled Mamba network architecture to enhance infrared small target detection performance.
 </div>
 </div>
 
 
 # 🎓 Educations
-- *2021.09 - present*, PhD Candidate (Joint), Information and Communication Engineering. Shanghai Jiao Tong University. 
-- *2021.09 - present*, PhD Candidate (Joint), Electrical and Computer Systems Engineering. Monash University. 
-- *2017.09 - 2021.06*, Undergraduate, Electronic Information Engineering (English Intensive). Dalian University of Technology.
+- *2023.09 - 2027.06 (expected)*, B.E. in Waterford Institute, **Nanjing University of Information Science and Technology (NUIST)**, Nanjing, China.
+  - **GPA**: 4.16/5.0 | **Rank**: 1/34 | **Centesimal Average**: 91.45
+- *2023.09 - 2027.06 (expected)*, B.E. in Computer Science and Information Technology, **South East Technological University (SETU)**, Munster, Ireland.
+  - **GPA**: 4.18/5.0 | **Rank**: 1/34 | **Centesimal Average**: 91.60
+
+### 📚 Selected Coursework
+Linear Algebra (99), College Physics (99), Introduction to Engineering (99), Advanced Mathematics (99), Discrete Mathematics (98), Relational Databases (98), Computer Networks (97), Probability Theory and Statistics (97), Python and its Application Practice (96), Web Application Development (95).
 
 
 # 📖 Publications
-- <small>**<u>Y. Chen*</u>**, M. Li*, Q. Wu, W. Lin, M. Harandi, J. Cai, "PCGS: Progressive Compression of 3D Gaussian Splatting", AAAI 2026.</small>
-- <small>**<u>Y. Chen</u>**, Q. Wu, W. Lin, M. Harandi, J. Cai, "HAC++: Towards 100X Compression of 3D Gaussian Splatting", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2025.</small>
-- <small>T. Chen, H. Liu, Y. Wang, **<u>Y. Chen</u>**, T. He, et al, "MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2025.</small>
-- <small>**<u>Y. Chen</u>**, Q. Wu, M. Li, W. Lin, M. Harandi, J. Cai, "Fast Feedforward 3D Gaussian Splatting Compression", ICLR 2025.</small>
-- <small>T. Chen, H. Liu, T. He, **<u>Y. Chen</u>**, C. Gan, et al, "MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning", NIPS 2024, Spotlight.</small>
-- <small>**<u>Y. Chen</u>**, Q. Wu, W. Lin, M. Harandi, J. Cai, "HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression", ECCV 2024.</small>
-- <small>**<u>Y. Chen</u>**, Q. Wu, M. Harandi, J. Cai, "How Far Can We Compress Instant-NGP-Based NeRF?", CVPR 2024.</small>
-- <small>Z. Xie, Z. Ni, W. Yang, Yuang Zhang, **<u>Y. Chen</u>**, Yang Zhang, X. Ma, "A Robust Online Multi-Camera People Tracking System With Geometric Consistency and State-aware Re-ID Correction", CVPR workshop 2024.</small>
-- <small>S. Liu, W. Lin, **<u>Y. Chen</u>**, Y. Zhang, W. Dai, J. See, H. Xiong, "A Unified Framework for Jointly Compressing Visual and Semantic Data", ACM Trans. Multimedia Computing, Communications, and Applications, 2024.</small>
-- <small>**<u>Y. Chen</u>**, W. Dong, Y. Xie, "A dual realization of Chua’s chaotic oscillator using a current-controlled nonlinear resistor." 2021 IEEE 3rd International Conference on Circuits and Systems (ICCS). IEEE, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9697183)] (*This is my very first published paper. Most sincere appreciations to [Prof. Weijie Dong](http://faculty.dlut.edu.cn/0912345/zh_CN/index.htm)*'s guidance to this paper.)</small>
+
+### 📄 Journal & Conference Papers
+- <small>**<u>Weijie Xu#</u>**, Zhenglong Ding*, Ziheng Wang, Zhiqing Cui, Yifan Hu, Feng Jiang, "Think Locally and Act Globally: A Frequency-Spatial Fusion Network for Infrared Small Target Detection", *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025. **[IF: 8.6, Rank: Q1 TOP, CCF B]**</small>
+- <small>Zhenglong Ding#, Yifan Hu*, Yuanhong Du, **<u>Weijie Xu</u>**, Yamei Wei, Xuan Yao, "LESO-Net: A Lightweight and Efficient Small Object Segmentation Network", *Journal of Nanjing University of Information Science and Technology*, 2024. **[Rank: Core Technology]**</small>
+
+### 📄 Papers Under Review & Working Papers
+- <small>Haiyao Jin#, **<u>Weijie Xu#</u>**, Siqi Li, Wei Zhang, Zhou Yue, Xue Yang*,†, Junchi Yan†, "NVRBench: A Cross-Modal Reasoning Benchmark for RGBT Referring Expression Comprehension in Drone Scenes", preparing to submit to *AAAI*, 2026. **[Rank: CCF A]**</small>
+- <small>Xinkang Fan#, **<u>Weijie Xu</u>**, Xilei Du, Zirui Xu, Yi Yao*, "TiBA-Fed: Budget-Aware Federated Learning for Time-Varying Heterogeneity Systems in Collaborative Edge-Cloud Intelligence", submitted to *IEEE Transactions on Mobile Computing (TMC)* (Under Review), 2026. **[IF: 8.1, Rank: Q1 TOP, CCF A]**</small>
+- <small>Yifan Hu#, **<u>Weijie Xu</u>**, Zhenglong Ding*, Kao Zhang, Feng Jiang, "PFDMNet: Prior-Guided Frequency-Decoupled Mamba Network for Infrared Small Target Detection", submitted to *Optics and Laser Technology* (in Major Revision), 2026. **[IF: 5.7, Rank: Q2]**</small>
+
+
+# 🏆 Honors & Awards
+- *2025*: **National Scholarship**, Ministry of Education, China
+- *2025*: **Person of the Year**, NUIST
+- *2025*: **Outstanding Student**, NUIST
+- *2025*: **Outstanding Student Leader**, NUIST
+- *2025*: **The Mathematical Contest in Modeling (MCM)**, Honorable Mention
+- *2025*: **China Robotics and Artificial Intelligence Competition**, First Prize
+- *2024*: **National Scholarship**, Ministry of Education, China
+- *2024*: **College Student Innovation and Entrepreneurship Training Program of Jiangsu Province**
+- *2024*: **National College Student Mathematical Modeling Competition**, First Prize
+- *2024*: **Higher Mathematics Competition of Jiangsu Province**, First Prize
+- *2024*: **Outstanding Volunteer**, NUIST
+
+
+# 💻 Skills
+- **Programming Languages & Frameworks**: Python, PyTorch, C++, Java, SQL, Shell, LaTeX
+- **Operating Systems & Databases**: Linux, Docker, Git, MySQL, MongoDB
+- **Software & Tools**: Office, Obsidian

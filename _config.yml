@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yihang Chen (陈一航)"
-description              : "Joint PhD candidate of SJTU-Monash"
-repository               : "yihangchen-ee.github.io"
+title                    : "Weijie Xu (徐伟杰)"
+description              : "Undergraduate Student at NUIST & SETU | Machine Learning & Computer Vision Researcher"
+repository               : "qzxwj/qzxwj-jackie.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,35 +21,35 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yihang Chen (陈一航)"
+  name             : "Weijie Xu (徐伟杰)"
   avatar           : "images/me.png"
-  bio              : "Pronoun - he/him"
-  location         :
-  resume           : "https://yihangchen-ee.github.io/CV_Yihang_Chen.pdf"
-  employer         :
+  bio              : "Dual Degree B.E. Student (2023 - 2027)"
+  location         : "Nanjing, China"
+  resume           : "CV_Weijie_Xu.pdf"
+  employer         : "NUIST & SETU"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=05KWkUAAAAAJ&hl=en"
-  email            : "yhchen.ee@sjtu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : 
+  email            : "wjxu@nuist.edu.cn"
+  researchgate     : 
+  uri              : "https://qzxwj.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YihangChen-ee"
+  github           : "qzxwj"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : 
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
