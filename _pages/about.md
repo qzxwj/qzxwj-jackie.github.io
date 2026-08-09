@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuing a dual Bachelor of Engineering degree at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** (Waterford Institute) and **[South East Technological University (SETU)](https://www.setu.ie)** (Computer Science and IT).
+I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuing a dual Bachelor of Engineering degree at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** and **[South East Technological University (SETU)](https://www.setu.ie)**.
 
 
 # 🎯 Research Interests
@@ -79,8 +79,8 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 
 # 🎓 Educations
-- *2023.09 - 2027.06 (expected)*, B.E. in Waterford Institute, **Nanjing University of Information Science and Technology (NUIST)**, Nanjing, China.
-- *2023.09 - 2027.06 (expected)*, B.E. in Computer Science and Information Technology, **South East Technological University (SETU)**, Munster, Ireland.
+- *2023.09 - 2027.06 (expected)*, B.E., **Nanjing University of Information Science and Technology (NUIST)**, Nanjing, China.
+- *2023.09 - 2027.06 (expected)*, B.E., **South East Technological University (SETU)**, Munster, Ireland.
 
 
 # 📖 Publications
