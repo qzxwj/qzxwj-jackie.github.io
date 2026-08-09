@@ -42,7 +42,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 <p style="margin: -1px 0;"><span style="font-weight: bold;"><u>Weijie Xu</u></span>#, Zhenglong Ding*, Ziheng Wang, Zhiqing Cui, Yifan Hu, Feng Jiang</p>
 
-<em>IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>), 2025. <b><span style="color:#e74c3c">Q1 TOP, CCF B, IF: 8.6</span></b></em>
+<em>IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>), 2025. <b><span style="color:#e74c3c">Q1 TOP, CCF B, IF: 9.4</span></b></em>
 
 - Proposed **FSCFNet** for infrared small target detection under sparsity, low contrast, and blurred textures.
 - Designed Frequency-Spatial Convolution, Asymmetric Cross-Domain Attention, and Multiscale Receptive Contextual Block to jointly model high-frequency details and low-frequency global structures.
