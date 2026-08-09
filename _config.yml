@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weijie Xu (徐炜杰)"
   avatar           : "images/me.jpg"
-  bio              : "Artificial Intelligence Major (2023 - 2027)"
+  bio              : 
   location         : "Nanjing, China"
   resume           : 
   employer         : "NUIST & SETU"
