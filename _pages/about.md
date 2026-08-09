@@ -30,7 +30,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 - *2025*: &nbsp;🎉🎉 1 first-author paper published online in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** (Q1 TOP, CCF B)!
 - *2025*: &nbsp;🏆 Honored as **Person of the Year** and awarded **National Scholarship** at NUIST!
 - *2025*: &nbsp;🥇 Awarded First Prize in **China Robotics and Artificial Intelligence Competition** & Honorable Mention in **MCM**!
-- *2024*: &nbsp;🏆 Awarded **National Scholarship**, First Prize in **National College Student Mathematical Modeling Competition**, and First Prize in **Jiangsu Higher Math Competition**!
+- *2024*: &nbsp;🏆 Awarded **National Scholarship** and First Prize in **National College Student Mathematical Modeling Competition**!
 
 
 # 📝 Selected Projects
@@ -57,7 +57,7 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 <p style="margin: -1px 0;">Yifan Hu#, <span style="font-weight: bold;"><u>Weijie Xu</u></span>, Zhenglong Ding*, Kao Zhang, Feng Jiang</p>
 
-<em>Optics and Laser Technology (<b>OLT</b>), 2026. <b><span style="color:#e74c3c">Q2, IF: 5.7</span></b></em>
+<em>Optics and Laser Technology (<b>OLT</b>), 2026. <b><span style="color:#e74c3c">Q2, IF: 5.2</span></b></em>
 
 - Formulated a prior-guided frequency-decoupled Mamba network architecture to enhance infrared small target detection performance.
 </div>
@@ -85,7 +85,6 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 - *2024*: **National Scholarship**, Ministry of Education, China
 - *2024*: **College Student Innovation and Entrepreneurship Training Program of Jiangsu Province**
 - *2024*: **National College Student Mathematical Modeling Competition**, First Prize
-- *2024*: **Higher Mathematics Competition of Jiangsu Province**, First Prize
 - *2024*: **Outstanding Volunteer**, NUIST
 
 
