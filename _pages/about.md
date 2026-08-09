@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuing a dual Bachelor of Engineering degree at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** and **[South East Technological University (SETU)](https://www.setu.ie)**.
+I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) majoring in Artificial Intelligence at **[Nanjing University of Information Science and Technology (NUIST)](https://www.nuist.edu.cn)** and **[South East Technological University (SETU)](https://www.setu.ie)**.
 
 
 # 🎯 Research Interests
 - **Computer Vision & Remote Sensing**: Infrared Small Target Detection (ISTD), Image Processing, Object Segmentation.
 - **Machine Learning & Edge Intelligence**: Model-Driven Deep Learning, LLM Inference Optimization.
+- **Signal Processing & Compression Techniques**: 3D Representation Compression, Image/Video Compression, *et al.*
 
 
 # 🔥 News
@@ -79,8 +80,8 @@ I am currently an undergraduate student (Sep 2023 – Jun 2027 expected) pursuin
 
 
 # 🎓 Educations
-- *2023.09 - 2027.06 (expected)*, B.E., **Nanjing University of Information Science and Technology (NUIST)**, Nanjing, China.
-- *2023.09 - 2027.06 (expected)*, B.E., **South East Technological University (SETU)**, Munster, Ireland.
+- *2023.09 - 2027.06 (expected)*, Undergraduate in Artificial Intelligence, **Nanjing University of Information Science and Technology (NUIST)**, Nanjing, China.
+- *2023.09 - 2027.06 (expected)*, Undergraduate in Artificial Intelligence, **South East Technological University (SETU)**, Munster, Ireland.
 
 
 # 📖 Publications
